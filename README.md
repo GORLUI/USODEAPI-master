@@ -339,13 +339,13 @@ Código de Reporte en excel:
 
 #RESULTADOS:
 ## Creación de usuario
-![Alt text](image-1.png)
+![Alt text](image-6.png)
 ##Vista de presentación de productos en tabla
-![Alt text](image-2.png)
+![Alt text](image-5.png)
 ##Reporte en Excel
-![Alt text](image-3.png)
+![Alt text](image-7.png)
 ##DATOS EN SQL
-![Alt text](image-4.png)
+![Alt text](image-8.png)
 ## Diagrama de flujo
 ![Alt text](image.png)
 
