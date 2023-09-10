@@ -4,9 +4,7 @@ Copyright (c) 2019 - present AppSeed.us
 """
 from django.shortcuts import render
 from django.views.generic import View 
-import firebase_admin
-from firebase_admin import credentials
-from firebase_admin import db
+
 from django.template import loader
 from django.http import HttpResponse
 from django import template

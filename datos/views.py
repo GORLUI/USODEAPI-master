@@ -7,7 +7,6 @@ from django.views.generic import View
 from django.http import HttpResponse, JsonResponse
 import csv 
 import pandas as pd
-from firebase_admin import db
 import mysql.connector
 import requests
 server = "sql177.main-hosting.eu"
