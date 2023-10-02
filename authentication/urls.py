@@ -11,7 +11,7 @@ from registros.views import Reg
 from registros import views
 from django.conf.urls.static import static 
 from datos.views import ReportePersonalizadoExcel
-
+from peliculas.views import Reg2
 
 urlpatterns = [
    
@@ -19,6 +19,7 @@ urlpatterns = [
     path('register/', register_user, name="register"),
     path("logout/", LogoutView.as_view(), name="logout"),
     path("Registros/", Reg.as_view(), name="tables-simple"),
+    path("Peliculas/", Reg2.as_view(), name="tables-simple2"),
     path('reporte/',ReportePersonalizadoExcel.as_view(), name = 'reporte'),
 
     
