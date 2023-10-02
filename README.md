@@ -348,7 +348,8 @@ Código de Reporte en excel:
 ![Alt text](image-8.png)
 ## Diagrama de flujo
 ![Alt text](image.png)
-
+## API DE PELICULAS 2023
+![Alt text](image-2.png)
 
 #ANEXOS DE PLANTILLA DJANGO
 
